@@ -1,0 +1,7 @@
+D:\проекты VS\c#\SantaClaus\bin\Debug\SantaClaus.exe.config
+D:\проекты VS\c#\SantaClaus\bin\Debug\SantaClaus.exe
+D:\проекты VS\c#\SantaClaus\bin\Debug\SantaClaus.pdb
+D:\проекты VS\c#\SantaClaus\obj\Debug\SantaClaus.csprojAssemblyReference.cache
+D:\проекты VS\c#\SantaClaus\obj\Debug\SantaClaus.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\SantaClaus\obj\Debug\SantaClaus.exe
+D:\проекты VS\c#\SantaClaus\obj\Debug\SantaClaus.pdb
