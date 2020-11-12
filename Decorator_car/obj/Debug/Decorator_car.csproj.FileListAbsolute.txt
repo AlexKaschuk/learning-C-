@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Decorator_car\bin\Debug\Decorator_car.exe.config
+D:\проекты VS\c#\Decorator_car\bin\Debug\Decorator_car.exe
+D:\проекты VS\c#\Decorator_car\bin\Debug\Decorator_car.pdb
+D:\проекты VS\c#\Decorator_car\obj\Debug\Decorator_car.csprojAssemblyReference.cache
+D:\проекты VS\c#\Decorator_car\obj\Debug\Decorator_car.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Decorator_car\obj\Debug\Decorator_car.exe
+D:\проекты VS\c#\Decorator_car\obj\Debug\Decorator_car.pdb
