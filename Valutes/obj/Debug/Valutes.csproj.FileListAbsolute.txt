@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Valutes\bin\Debug\Valutes.exe.config
+D:\проекты VS\c#\Valutes\bin\Debug\Valutes.exe
+D:\проекты VS\c#\Valutes\bin\Debug\Valutes.pdb
+D:\проекты VS\c#\Valutes\obj\Debug\Valutes.csprojAssemblyReference.cache
+D:\проекты VS\c#\Valutes\obj\Debug\Valutes.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Valutes\obj\Debug\Valutes.exe
+D:\проекты VS\c#\Valutes\obj\Debug\Valutes.pdb
