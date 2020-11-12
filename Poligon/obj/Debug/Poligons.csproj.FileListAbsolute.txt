@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Poligon\bin\Debug\Poligon.exe.config
+D:\проекты VS\c#\Poligon\bin\Debug\Poligon.exe
+D:\проекты VS\c#\Poligon\bin\Debug\Poligon.pdb
+D:\проекты VS\c#\Poligon\obj\Debug\Poligons.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Poligon\obj\Debug\Poligon.exe
+D:\проекты VS\c#\Poligon\obj\Debug\Poligon.pdb
+D:\проекты VS\c#\Poligon\obj\Debug\Poligons.csprojAssemblyReference.cache
