@@ -1,0 +1,7 @@
+D:\проекты VS\c#\StreamHomeTask\obj\Debug\StreamHomeTask.csprojAssemblyReference.cache
+D:\проекты VS\c#\StreamHomeTask\obj\Debug\StreamHomeTask.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\StreamHomeTask\bin\Debug\StreamHomeTask.exe.config
+D:\проекты VS\c#\StreamHomeTask\bin\Debug\StreamHomeTask.exe
+D:\проекты VS\c#\StreamHomeTask\bin\Debug\StreamHomeTask.pdb
+D:\проекты VS\c#\StreamHomeTask\obj\Debug\StreamHomeTask.exe
+D:\проекты VS\c#\StreamHomeTask\obj\Debug\StreamHomeTask.pdb
