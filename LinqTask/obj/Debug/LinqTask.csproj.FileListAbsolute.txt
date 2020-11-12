@@ -1,0 +1,7 @@
+D:\проекты VS\c#\LinqTask\bin\Debug\LinqTask.exe.config
+D:\проекты VS\c#\LinqTask\bin\Debug\LinqTask.exe
+D:\проекты VS\c#\LinqTask\bin\Debug\LinqTask.pdb
+D:\проекты VS\c#\LinqTask\obj\Debug\LinqTask.csprojAssemblyReference.cache
+D:\проекты VS\c#\LinqTask\obj\Debug\LinqTask.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\LinqTask\obj\Debug\LinqTask.exe
+D:\проекты VS\c#\LinqTask\obj\Debug\LinqTask.pdb
