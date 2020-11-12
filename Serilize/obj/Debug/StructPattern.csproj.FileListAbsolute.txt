@@ -1,0 +1,14 @@
+C:\Users\abb\source\repos\StructPattern\bin\Debug\StructPattern.exe.config
+C:\Users\abb\source\repos\StructPattern\bin\Debug\StructPattern.exe
+C:\Users\abb\source\repos\StructPattern\bin\Debug\StructPattern.pdb
+C:\Users\abb\source\repos\StructPattern\obj\Debug\StructPattern.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\StructPattern\obj\Debug\StructPattern.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\StructPattern\obj\Debug\StructPattern.exe
+C:\Users\abb\source\repos\StructPattern\obj\Debug\StructPattern.pdb
+D:\проекты VS\c#\Serilize\obj\Debug\StructPattern.csprojAssemblyReference.cache
+D:\проекты VS\c#\Serilize\obj\Debug\StructPattern.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Serilize\obj\Debug\StructPattern.exe
+D:\проекты VS\c#\Serilize\obj\Debug\StructPattern.pdb
+D:\проекты VS\c#\Serilize\bin\Debug\StructPattern.exe.config
+D:\проекты VS\c#\Serilize\bin\Debug\StructPattern.exe
+D:\проекты VS\c#\Serilize\bin\Debug\StructPattern.pdb

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<booksCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Id>123</Id>
+    <Name>SomeName</Name>
+    <Autor>Perumov11</Autor>
+    <Price>12345</Price>
+    <Genre>Programing</Genre>
+  </Book>
+  <Book>
+    <Id>1234</Id>
+    <Name>SomeMyName</Name>
+    <Autor>Perumov2</Autor>
+    <Price>123456</Price>
+    <Genre>Design</Genre>
+  </Book>
+  <Book>
+    <Id>1235</Id>
+    <Name>SomeAnyName</Name>
+    <Autor>Perumov1</Autor>
+    <Price>123457</Price>
+    <Genre>Programing</Genre>
+  </Book>
+  <Book>
+    <Id>1236</Id>
+    <Name>SomeName2</Name>
+    <Autor>Perumov4</Autor>
+    <Price>123458</Price>
+    <Genre>Design</Genre>
+  </Book>
+</booksCollection>
