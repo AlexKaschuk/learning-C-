@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workerlist>
+  <Worker>
+    <Id>1000001</Id>
+    <Name>Alex</Name>
+    <Surname>Kashchuk</Surname>
+    <PhoneNumber>123456789</PhoneNumber>
+    <Position>lead</Position>
+  </Worker>
+  <Worker>
+    <Id>1000002</Id>
+    <Name>Alex</Name>
+    <Surname>Qwerty</Surname>
+    <PhoneNumber>0999999998</PhoneNumber>
+    <Position>PM</Position>
+  </Worker>
+  <Worker>
+    <Id>1000003</Id>
+    <Name>Alex</Name>
+    <Surname>Doom</Surname>
+    <PhoneNumber>0999999999</PhoneNumber>
+    <Position>DataLead</Position>
+  </Worker>
+</Workerlist>

@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Workers_XML\bin\Debug\Workers_XML.exe.config
+D:\проекты VS\c#\Workers_XML\bin\Debug\Workers_XML.exe
+D:\проекты VS\c#\Workers_XML\bin\Debug\Workers_XML.pdb
+D:\проекты VS\c#\Workers_XML\obj\Debug\Workers_XML.csprojAssemblyReference.cache
+D:\проекты VS\c#\Workers_XML\obj\Debug\Workers_XML.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Workers_XML\obj\Debug\Workers_XML.exe
+D:\проекты VS\c#\Workers_XML\obj\Debug\Workers_XML.pdb
