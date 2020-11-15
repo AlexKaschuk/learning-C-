@@ -113,11 +113,7 @@ namespace Exam
         }
 
         private void SaveThread(){
-            BinaryFormatter binFormat = new BinaryFormatter();
-            using (Stream fStream = new FileStream("office.bin", FileMode.Create, FileAccess.Write, FileShare.None))
-            {
-                binFormat.Serialize(fStream, office);
-            }
+            Save();
             pool.WaitOne();
             pool.Release();
             Load();
