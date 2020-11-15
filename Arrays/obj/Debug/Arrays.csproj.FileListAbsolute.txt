@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\проекты VS\c#\Arrays\bin\Debug\Arrays.exe.config
 D:\проекты VS\c#\Arrays\bin\Debug\Arrays.exe
 D:\проекты VS\c#\Arrays\bin\Debug\Arrays.pdb
@@ -5,3 +6,12 @@ D:\проекты VS\c#\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
 D:\проекты VS\c#\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
 D:\проекты VS\c#\Arrays\obj\Debug\Arrays.exe
 D:\проекты VS\c#\Arrays\obj\Debug\Arrays.pdb
+=======
+D:\проекты VS\c#\Arrays\bin\Debug\Arrays.exe.config
+D:\проекты VS\c#\Arrays\bin\Debug\Arrays.exe
+D:\проекты VS\c#\Arrays\bin\Debug\Arrays.pdb
+D:\проекты VS\c#\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+D:\проекты VS\c#\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Arrays\obj\Debug\Arrays.exe
+D:\проекты VS\c#\Arrays\obj\Debug\Arrays.pdb
+>>>>>>> 34a0ba9b576be165f92221286a65aec0c038d6ca
