@@ -1,0 +1,11 @@
+C:\Users\abb\source\repos\AddDll\bin\Debug\AddDll.exe.config
+C:\Users\abb\source\repos\AddDll\bin\Debug\AddDll.exe
+C:\Users\abb\source\repos\AddDll\bin\Debug\AddDll.pdb
+C:\Users\abb\source\repos\AddDll\bin\Debug\GarbageCollector.dll
+C:\Users\abb\source\repos\AddDll\bin\Debug\GarbageCollector.pdb
+C:\Users\abb\source\repos\AddDll\bin\Debug\GarbageCollector.dll.config
+C:\Users\abb\source\repos\AddDll\obj\Debug\AddDll.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\AddDll\obj\Debug\AddDll.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\AddDll\obj\Debug\AddDll.csproj.CopyComplete
+C:\Users\abb\source\repos\AddDll\obj\Debug\AddDll.exe
+C:\Users\abb\source\repos\AddDll\obj\Debug\AddDll.pdb
