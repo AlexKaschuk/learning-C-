@@ -1,0 +1,7 @@
+C:\Users\abb\source\repos\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\abb\source\repos\Adapter\bin\Debug\Adapter.exe
+C:\Users\abb\source\repos\Adapter\bin\Debug\Adapter.pdb
+C:\Users\abb\source\repos\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\Adapter\obj\Debug\Adapter.exe
+C:\Users\abb\source\repos\Adapter\obj\Debug\Adapter.pdb
