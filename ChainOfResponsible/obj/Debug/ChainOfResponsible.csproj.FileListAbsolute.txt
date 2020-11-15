@@ -1,0 +1,7 @@
+C:\Users\abb\source\repos\ChainOfResponsible\bin\Debug\ChainOfResponsible.exe.config
+C:\Users\abb\source\repos\ChainOfResponsible\bin\Debug\ChainOfResponsible.exe
+C:\Users\abb\source\repos\ChainOfResponsible\bin\Debug\ChainOfResponsible.pdb
+C:\Users\abb\source\repos\ChainOfResponsible\obj\Debug\ChainOfResponsible.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\ChainOfResponsible\obj\Debug\ChainOfResponsible.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\ChainOfResponsible\obj\Debug\ChainOfResponsible.exe
+C:\Users\abb\source\repos\ChainOfResponsible\obj\Debug\ChainOfResponsible.pdb
