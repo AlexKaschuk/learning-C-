@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.exe.config
 C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.exe
 C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.pdb
@@ -5,3 +6,12 @@ C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
 C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
 C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.exe
 C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.pdb
+=======
+C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.exe
+C:\Users\abb\source\repos\Bridge\bin\Debug\Bridge.pdb
+C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.exe
+C:\Users\abb\source\repos\Bridge\obj\Debug\Bridge.pdb
+>>>>>>> 34a0ba9b576be165f92221286a65aec0c038d6ca
