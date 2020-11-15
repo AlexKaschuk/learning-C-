@@ -1,0 +1,2 @@
+D:\проекты VS\c#\Project1\Debug\Project1.exe
+D:\проекты VS\c#\Project1\Debug\Project1.pdb

@@ -1,0 +1,7 @@
+C:\Users\abb\source\repos\StreamsClass\bin\Debug\StreamsClass.exe.config
+C:\Users\abb\source\repos\StreamsClass\bin\Debug\StreamsClass.exe
+C:\Users\abb\source\repos\StreamsClass\bin\Debug\StreamsClass.pdb
+C:\Users\abb\source\repos\StreamsClass\obj\Debug\StreamsClass.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\StreamsClass\obj\Debug\StreamsClass.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\StreamsClass\obj\Debug\StreamsClass.exe
+C:\Users\abb\source\repos\StreamsClass\obj\Debug\StreamsClass.pdb

@@ -1,0 +1,7 @@
+D:\проекты VS\c#\ComplexNumber\bin\Debug\ComplexNumber.exe.config
+D:\проекты VS\c#\ComplexNumber\bin\Debug\ComplexNumber.exe
+D:\проекты VS\c#\ComplexNumber\bin\Debug\ComplexNumber.pdb
+D:\проекты VS\c#\ComplexNumber\obj\Debug\ComplexNumber.csprojAssemblyReference.cache
+D:\проекты VS\c#\ComplexNumber\obj\Debug\ComplexNumber.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\ComplexNumber\obj\Debug\ComplexNumber.exe
+D:\проекты VS\c#\ComplexNumber\obj\Debug\ComplexNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\abb\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\abb\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\abb\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\abb\source\repos\ConsoleApp1\obj\Debug\GenersicCollections.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\ConsoleApp1\obj\Debug\GenersicCollections.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\abb\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

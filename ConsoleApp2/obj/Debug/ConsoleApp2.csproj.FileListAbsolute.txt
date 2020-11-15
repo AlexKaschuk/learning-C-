@@ -1,0 +1,11 @@
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\GraficsC.dll
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\GraficsC.pdb
+C:\Users\abb\source\repos\ConsoleApp2\bin\Debug\GraficsC.dll.config
+C:\Users\abb\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\abb\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\abb\source\repos\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

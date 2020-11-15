@@ -1,0 +1,14 @@
+C:\Users\abb\source\repos\university\bin\Debug\university.exe.config
+C:\Users\abb\source\repos\university\bin\Debug\university.exe
+C:\Users\abb\source\repos\university\bin\Debug\university.pdb
+C:\Users\abb\source\repos\university\obj\Debug\university.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\university\obj\Debug\university.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\university\obj\Debug\university.exe
+C:\Users\abb\source\repos\university\obj\Debug\university.pdb
+D:\проекты VS\c#\university\bin\Debug\university.exe.config
+D:\проекты VS\c#\university\bin\Debug\university.exe
+D:\проекты VS\c#\university\bin\Debug\university.pdb
+D:\проекты VS\c#\university\obj\Debug\university.csprojAssemblyReference.cache
+D:\проекты VS\c#\university\obj\Debug\university.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\university\obj\Debug\university.exe
+D:\проекты VS\c#\university\obj\Debug\university.pdb

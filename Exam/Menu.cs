@@ -17,7 +17,7 @@ namespace Exam
 
         string adminPassword = "admin";
 
-        Semaphore pool = new Semaphore(0, 1);
+        Semaphore pool = new Semaphore(0, 2);
         public void ShowMenu() {
             Load();
             Thread thread;

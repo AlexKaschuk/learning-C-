@@ -1,0 +1,7 @@
+D:\проекты VS\c#\university2\university\bin\Debug\university.exe.config
+D:\проекты VS\c#\university2\university\bin\Debug\university.exe
+D:\проекты VS\c#\university2\university\bin\Debug\university.pdb
+D:\проекты VS\c#\university2\university\obj\Debug\university2.csprojAssemblyReference.cache
+D:\проекты VS\c#\university2\university\obj\Debug\university2.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\university2\university\obj\Debug\university.exe
+D:\проекты VS\c#\university2\university\obj\Debug\university.pdb

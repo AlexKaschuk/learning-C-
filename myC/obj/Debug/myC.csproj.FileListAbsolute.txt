@@ -1,0 +1,7 @@
+C:\Users\abb\source\repos\myC\bin\Debug\myC.exe.config
+C:\Users\abb\source\repos\myC\bin\Debug\myC.exe
+C:\Users\abb\source\repos\myC\bin\Debug\myC.pdb
+C:\Users\abb\source\repos\myC\obj\Debug\myC.csprojAssemblyReference.cache
+C:\Users\abb\source\repos\myC\obj\Debug\myC.csproj.CoreCompileInputs.cache
+C:\Users\abb\source\repos\myC\obj\Debug\myC.exe
+C:\Users\abb\source\repos\myC\obj\Debug\myC.pdb

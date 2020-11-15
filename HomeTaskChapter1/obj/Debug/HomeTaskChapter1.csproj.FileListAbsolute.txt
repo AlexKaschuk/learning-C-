@@ -1,0 +1,7 @@
+D:\проекты VS\c#\HomeTaskChapter1\bin\Debug\HomeTaskChapter1.exe.config
+D:\проекты VS\c#\HomeTaskChapter1\bin\Debug\HomeTaskChapter1.exe
+D:\проекты VS\c#\HomeTaskChapter1\bin\Debug\HomeTaskChapter1.pdb
+D:\проекты VS\c#\HomeTaskChapter1\obj\Debug\HomeTaskChapter1.csprojAssemblyReference.cache
+D:\проекты VS\c#\HomeTaskChapter1\obj\Debug\HomeTaskChapter1.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\HomeTaskChapter1\obj\Debug\HomeTaskChapter1.exe
+D:\проекты VS\c#\HomeTaskChapter1\obj\Debug\HomeTaskChapter1.pdb

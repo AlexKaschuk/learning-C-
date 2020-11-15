@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Inheritance\bin\Debug\Inheritance.exe.config
+D:\проекты VS\c#\Inheritance\bin\Debug\Inheritance.exe
+D:\проекты VS\c#\Inheritance\bin\Debug\Inheritance.pdb
+D:\проекты VS\c#\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+D:\проекты VS\c#\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Inheritance\obj\Debug\Inheritance.exe
+D:\проекты VS\c#\Inheritance\obj\Debug\Inheritance.pdb

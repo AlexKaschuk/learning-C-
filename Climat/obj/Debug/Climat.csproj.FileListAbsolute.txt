@@ -1,0 +1,7 @@
+D:\проекты VS\c#\Climat\bin\Debug\Climat.exe.config
+D:\проекты VS\c#\Climat\bin\Debug\Climat.exe
+D:\проекты VS\c#\Climat\bin\Debug\Climat.pdb
+D:\проекты VS\c#\Climat\obj\Debug\Climat.csprojAssemblyReference.cache
+D:\проекты VS\c#\Climat\obj\Debug\Climat.csproj.CoreCompileInputs.cache
+D:\проекты VS\c#\Climat\obj\Debug\Climat.exe
+D:\проекты VS\c#\Climat\obj\Debug\Climat.pdb

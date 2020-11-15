@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<booksCollection>
+  <Book>
+    <Id>123</Id>
+    <Name>SomeName</Name>
+    <Autor>Perumov11</Autor>
+    <Price>12345.00</Price>
+    <Genre>Programing</Genre>
+  </Book>
+  <Book>
+    <Id>1234</Id>
+    <Name>SomeMyName</Name>
+    <Autor>Perumov2</Autor>
+    <Price>123456.00</Price>
+    <Genre>Design</Genre>
+  </Book>
+  <Book>
+    <Id>1235</Id>
+    <Name>SomeAnyName</Name>
+    <Autor>Perumov1</Autor>
+    <Price>123457.00</Price>
+    <Genre>Programing</Genre>
+  </Book>
+  <Book>
+    <Id>1236</Id>
+    <Name>SomeName2</Name>
+    <Autor>Perumov4</Autor>
+    <Price>123458.00</Price>
+    <Genre>Design</Genre>
+  </Book>
+</booksCollection>
