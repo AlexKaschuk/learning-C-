@@ -1,0 +1,4 @@
+C:\Users\abb\source\repos\Api\Debug\Api.exe
+C:\Users\abb\source\repos\Api\Debug\Api.pdb
+D:\GitHub\learning-C-\tic-tac-toe\Debug\Api.exe
+D:\GitHub\learning-C-\tic-tac-toe\Debug\Api.pdb

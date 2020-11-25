@@ -147,6 +147,9 @@ namespace LinqTask
 
 
 
+            int x = 2, y = 1024;
+            Console.WriteLine();
+
         }
     }
 }
