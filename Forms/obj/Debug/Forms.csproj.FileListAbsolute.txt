@@ -1,0 +1,10 @@
+D:\проекты VS\Forms\bin\Debug\Forms.exe.config
+D:\проекты VS\Forms\bin\Debug\Forms.exe
+D:\проекты VS\Forms\bin\Debug\Forms.pdb
+D:\проекты VS\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+D:\проекты VS\Forms\obj\Debug\Forms.Form1.resources
+D:\проекты VS\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\проекты VS\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+D:\проекты VS\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+D:\проекты VS\Forms\obj\Debug\Forms.exe
+D:\проекты VS\Forms\obj\Debug\Forms.pdb

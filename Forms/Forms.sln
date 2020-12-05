@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forms", "Forms.csproj", "{BB083B5E-47C7-4C9A-917B-5A68557FAD63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "..\Game\Game.csproj", "{07DAF3AB-CB12-48EC-BE1E-2823743B90B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB083B5E-47C7-4C9A-917B-5A68557FAD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB083B5E-47C7-4C9A-917B-5A68557FAD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB083B5E-47C7-4C9A-917B-5A68557FAD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB083B5E-47C7-4C9A-917B-5A68557FAD63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07DAF3AB-CB12-48EC-BE1E-2823743B90B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07DAF3AB-CB12-48EC-BE1E-2823743B90B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07DAF3AB-CB12-48EC-BE1E-2823743B90B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07DAF3AB-CB12-48EC-BE1E-2823743B90B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC2846FC-0BDD-4E18-8BCB-19596567827E}
+	EndGlobalSection
+EndGlobal

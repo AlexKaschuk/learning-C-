@@ -1,2 +1,6 @@
 ﻿D:\programFiles\visualStudio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj, WinAPI.vcxproj, _WinAPI.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  gradient.cpp
+  main.cpp
+D:\GitHub\learning-C-\WinAPI_WF\Project1\main.cpp(37,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
   Project1.vcxproj -> D:\GitHub\learning-C-\WinAPI_WF\Debug\__WinAPI.exe
