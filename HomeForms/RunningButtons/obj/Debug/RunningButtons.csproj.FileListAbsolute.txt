@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.Form1.resources
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.Properties.Resources.resources
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\RunningButtons\bin\Debug\RunningButtons.exe.config
+D:\GitHub\learning-C-\RunningButtons\bin\Debug\RunningButtons.exe
+D:\GitHub\learning-C-\RunningButtons\bin\Debug\RunningButtons.pdb
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.exe
+D:\GitHub\learning-C-\RunningButtons\obj\Debug\RunningButtons.pdb

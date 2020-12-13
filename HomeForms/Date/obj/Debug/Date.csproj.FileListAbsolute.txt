@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\Date\bin\Debug\Date.exe.config
+D:\GitHub\learning-C-\Date\bin\Debug\Date.exe
+D:\GitHub\learning-C-\Date\bin\Debug\Date.pdb
+D:\GitHub\learning-C-\Date\obj\Debug\Date.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\Date\obj\Debug\Date.Form1.resources
+D:\GitHub\learning-C-\Date\obj\Debug\Date.Properties.Resources.resources
+D:\GitHub\learning-C-\Date\obj\Debug\Date.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\Date\obj\Debug\Date.exe
+D:\GitHub\learning-C-\Date\obj\Debug\Date.pdb

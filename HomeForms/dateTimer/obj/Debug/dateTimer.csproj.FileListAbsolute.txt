@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\dateTimer\bin\Debug\dateTimer.exe.config
+D:\GitHub\learning-C-\dateTimer\bin\Debug\dateTimer.exe
+D:\GitHub\learning-C-\dateTimer\bin\Debug\dateTimer.pdb
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.Form1.resources
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.Properties.Resources.resources
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.exe
+D:\GitHub\learning-C-\dateTimer\obj\Debug\dateTimer.pdb

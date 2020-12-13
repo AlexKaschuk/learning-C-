@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>123</Name>
+  <Surname>123</Surname>
+  <FatherName>123</FatherName>
+  <Country>1231</Country>
+  <City>123</City>
+  <PhoneNumber>123</PhoneNumber>
+  <bDay>2020-12-03T15:05:49</bDay>
+</Person>

@@ -1,0 +1,9 @@
+D:\GitHub\learning-C-\BirthDay\bin\Debug\BirthDay.exe.config
+D:\GitHub\learning-C-\BirthDay\bin\Debug\BirthDay.exe
+D:\GitHub\learning-C-\BirthDay\bin\Debug\BirthDay.pdb
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.Form1.resources
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.Properties.Resources.resources
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.exe
+D:\GitHub\learning-C-\BirthDay\obj\Debug\BirthDay.pdb

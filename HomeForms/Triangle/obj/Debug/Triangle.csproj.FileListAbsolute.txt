@@ -1,0 +1,11 @@
+D:\GitHub\learning-C-\Triangle\bin\Debug\Triangle.exe.config
+D:\GitHub\learning-C-\Triangle\bin\Debug\Triangle.exe
+D:\GitHub\learning-C-\Triangle\bin\Debug\Triangle.pdb
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.Form1.resources
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.Properties.Resources.resources
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.exe
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.pdb
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\Triangle\obj\Debug\Triangle.InheritForm.resources
