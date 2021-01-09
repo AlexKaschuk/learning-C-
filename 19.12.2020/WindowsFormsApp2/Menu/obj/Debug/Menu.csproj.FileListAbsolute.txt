@@ -1,0 +1,10 @@
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\bin\Debug\Menu.exe.config
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\bin\Debug\Menu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\bin\Debug\Menu.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.Form1.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.Properties.Resources.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\Menu\obj\Debug\Menu.csprojAssemblyReference.cache

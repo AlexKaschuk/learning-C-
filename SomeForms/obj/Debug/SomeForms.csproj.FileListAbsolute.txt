@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\SomeForms\bin\Debug\SomeForms.exe.config
+D:\GitHub\learning-C-\SomeForms\bin\Debug\SomeForms.exe
+D:\GitHub\learning-C-\SomeForms\bin\Debug\SomeForms.pdb
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.Form1.resources
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.Properties.Resources.resources
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.exe
+D:\GitHub\learning-C-\SomeForms\obj\Debug\SomeForms.pdb

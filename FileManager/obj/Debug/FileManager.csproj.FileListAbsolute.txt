@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\FileManager\bin\Debug\FileManager.exe.config
+D:\GitHub\learning-C-\FileManager\bin\Debug\FileManager.exe
+D:\GitHub\learning-C-\FileManager\bin\Debug\FileManager.pdb
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.Form1.resources
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.Properties.Resources.resources
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.exe
+D:\GitHub\learning-C-\FileManager\obj\Debug\FileManager.pdb

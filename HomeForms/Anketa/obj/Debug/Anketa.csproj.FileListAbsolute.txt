@@ -8,3 +8,12 @@ D:\GitHub\learning-C-\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
 D:\GitHub\learning-C-\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
 D:\GitHub\learning-C-\Anketa\obj\Debug\Anketa.exe
 D:\GitHub\learning-C-\Anketa\obj\Debug\Anketa.pdb
+D:\GitHub\learning-C-\HomeForms\Anketa\bin\Debug\Anketa.exe.config
+D:\GitHub\learning-C-\HomeForms\Anketa\bin\Debug\Anketa.exe
+D:\GitHub\learning-C-\HomeForms\Anketa\bin\Debug\Anketa.pdb
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.Form1.resources
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.exe
+D:\GitHub\learning-C-\HomeForms\Anketa\obj\Debug\Anketa.pdb

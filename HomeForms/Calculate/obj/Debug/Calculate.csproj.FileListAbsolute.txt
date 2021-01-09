@@ -8,3 +8,12 @@ D:\GitHub\learning-C-\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cach
 D:\GitHub\learning-C-\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
 D:\GitHub\learning-C-\Calculate\obj\Debug\Calculate.exe
 D:\GitHub\learning-C-\Calculate\obj\Debug\Calculate.pdb
+D:\GitHub\learning-C-\HomeForms\Calculate\bin\Debug\Calculate.exe.config
+D:\GitHub\learning-C-\HomeForms\Calculate\bin\Debug\Calculate.exe
+D:\GitHub\learning-C-\HomeForms\Calculate\bin\Debug\Calculate.pdb
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.Form1.resources
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.exe
+D:\GitHub\learning-C-\HomeForms\Calculate\obj\Debug\Calculate.pdb

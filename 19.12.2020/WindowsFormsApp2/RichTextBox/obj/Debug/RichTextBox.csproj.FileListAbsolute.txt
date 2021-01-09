@@ -1,0 +1,9 @@
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\bin\Debug\RichTextBox.exe.config
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\bin\Debug\RichTextBox.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\bin\Debug\RichTextBox.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\RichTextBox\obj\Debug\RichTextBox.pdb

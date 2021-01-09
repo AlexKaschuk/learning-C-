@@ -1,0 +1,9 @@
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\bin\Debug\Toolbar.exe.config
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\bin\Debug\Toolbar.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\bin\Debug\Toolbar.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.Form1.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.Properties.Resources.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.csproj.GenerateResource.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.csproj.CoreCompileInputs.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\Toolbar\obj\Debug\Toolbar.pdb

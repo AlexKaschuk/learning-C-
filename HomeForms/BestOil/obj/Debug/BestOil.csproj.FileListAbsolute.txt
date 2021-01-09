@@ -8,3 +8,13 @@ D:\проекты VS\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
 D:\проекты VS\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
 D:\проекты VS\BestOil\obj\Debug\BestOil.exe
 D:\проекты VS\BestOil\obj\Debug\BestOil.pdb
+D:\GitHub\learning-C-\HomeForms\BestOil\bin\Debug\BestOil.exe.config
+D:\GitHub\learning-C-\HomeForms\BestOil\bin\Debug\BestOil.exe
+D:\GitHub\learning-C-\HomeForms\BestOil\bin\Debug\BestOil.pdb
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.Form1.resources
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.exe
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.pdb
+D:\GitHub\learning-C-\HomeForms\BestOil\obj\Debug\BestOil.csprojAssemblyReference.cache

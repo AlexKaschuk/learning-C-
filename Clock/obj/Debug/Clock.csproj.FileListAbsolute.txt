@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\Clock\bin\Debug\Clock.exe.config
+D:\GitHub\learning-C-\Clock\bin\Debug\Clock.exe
+D:\GitHub\learning-C-\Clock\bin\Debug\Clock.pdb
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.Form1.resources
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.Properties.Resources.resources
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.exe
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.pdb
+D:\GitHub\learning-C-\Clock\obj\Debug\Clock.csprojAssemblyReference.cache

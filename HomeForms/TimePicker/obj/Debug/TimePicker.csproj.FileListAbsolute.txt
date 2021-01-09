@@ -7,3 +7,12 @@ D:\GitHub\learning-C-\TimePicker\obj\Debug\TimePicker.csproj.GenerateResource.ca
 D:\GitHub\learning-C-\TimePicker\obj\Debug\TimePicker.csproj.CoreCompileInputs.cache
 D:\GitHub\learning-C-\TimePicker\obj\Debug\TimePicker.exe
 D:\GitHub\learning-C-\TimePicker\obj\Debug\TimePicker.pdb
+D:\GitHub\learning-C-\HomeForms\TimePicker\bin\Debug\TimePicker.exe.config
+D:\GitHub\learning-C-\HomeForms\TimePicker\bin\Debug\TimePicker.exe
+D:\GitHub\learning-C-\HomeForms\TimePicker\bin\Debug\TimePicker.pdb
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.Form1.resources
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.exe
+D:\GitHub\learning-C-\HomeForms\TimePicker\obj\Debug\TimePicker.pdb

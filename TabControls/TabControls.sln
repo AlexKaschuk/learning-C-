@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextStyleSelect", "TextStyleSelect.csproj", "{998571EE-9DCF-4E0C-A1BF-65B9357D2F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clock", "..\Clock\Clock.csproj", "{FE209B00-3B13-4ABC-8396-33C89C5022AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "..\Calculator\Calculator.csproj", "{C42ABAAC-33B5-4F1E-9320-D7CF59C84F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{998571EE-9DCF-4E0C-A1BF-65B9357D2F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998571EE-9DCF-4E0C-A1BF-65B9357D2F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998571EE-9DCF-4E0C-A1BF-65B9357D2F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998571EE-9DCF-4E0C-A1BF-65B9357D2F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE209B00-3B13-4ABC-8396-33C89C5022AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE209B00-3B13-4ABC-8396-33C89C5022AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE209B00-3B13-4ABC-8396-33C89C5022AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE209B00-3B13-4ABC-8396-33C89C5022AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C42ABAAC-33B5-4F1E-9320-D7CF59C84F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C42ABAAC-33B5-4F1E-9320-D7CF59C84F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C42ABAAC-33B5-4F1E-9320-D7CF59C84F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C42ABAAC-33B5-4F1E-9320-D7CF59C84F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07108D89-F3A1-4F42-8D91-68EC53B00D96}
+	EndGlobalSection
+EndGlobal

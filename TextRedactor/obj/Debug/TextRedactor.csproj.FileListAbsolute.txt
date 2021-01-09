@@ -1,0 +1,11 @@
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextRedactor.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextRedactor.Form1.resources
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextReductor.Properties.Resources.resources
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextRedactor.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextRedactor.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextReductor.exe
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextReductor.pdb
+D:\GitHub\learning-C-\TextReductor\bin\Debug\TextReductor.exe.config
+D:\GitHub\learning-C-\TextReductor\bin\Debug\TextReductor.exe
+D:\GitHub\learning-C-\TextReductor\bin\Debug\TextReductor.pdb
+D:\GitHub\learning-C-\TextReductor\obj\Debug\TextRedactor.Find.resources

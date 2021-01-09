@@ -1,0 +1,10 @@
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.Form1.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.Properties.Resources.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.csproj.GenerateResource.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.csproj.CoreCompileInputs.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\bin\Debug\DynamicContextMenu.exe.config
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\bin\Debug\DynamicContextMenu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\bin\Debug\DynamicContextMenu.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.csprojAssemblyReference.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicContextMenu\obj\Debug\DynamicContextMenu.pdb

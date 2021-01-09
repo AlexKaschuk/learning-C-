@@ -8,3 +8,12 @@ D:\GitHub\learning-C-\InheritForm\obj\Debug\Employee.csproj.GenerateResource.cac
 D:\GitHub\learning-C-\InheritForm\obj\Debug\Employee.csproj.CoreCompileInputs.cache
 D:\GitHub\learning-C-\InheritForm\obj\Debug\InheritForm.exe
 D:\GitHub\learning-C-\InheritForm\obj\Debug\InheritForm.pdb
+D:\GitHub\learning-C-\HomeForms\InheritForm\bin\Debug\InheritForm.exe.config
+D:\GitHub\learning-C-\HomeForms\InheritForm\bin\Debug\InheritForm.exe
+D:\GitHub\learning-C-\HomeForms\InheritForm\bin\Debug\InheritForm.pdb
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\InheritForm.Form1.resources
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\InheritForm.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\Employee.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\InheritForm.exe
+D:\GitHub\learning-C-\HomeForms\InheritForm\obj\Debug\InheritForm.pdb

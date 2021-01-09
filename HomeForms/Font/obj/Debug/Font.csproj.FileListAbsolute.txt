@@ -8,3 +8,12 @@ D:\GitHub\learning-C-\Font\obj\Debug\Font.csproj.GenerateResource.cache
 D:\GitHub\learning-C-\Font\obj\Debug\Font.csproj.CoreCompileInputs.cache
 D:\GitHub\learning-C-\Font\obj\Debug\Font.exe
 D:\GitHub\learning-C-\Font\obj\Debug\Font.pdb
+D:\GitHub\learning-C-\HomeForms\Font\bin\Debug\Font.exe.config
+D:\GitHub\learning-C-\HomeForms\Font\bin\Debug\Font.exe
+D:\GitHub\learning-C-\HomeForms\Font\bin\Debug\Font.pdb
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.Form1.resources
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.Properties.Resources.resources
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.exe
+D:\GitHub\learning-C-\HomeForms\Font\obj\Debug\Font.pdb

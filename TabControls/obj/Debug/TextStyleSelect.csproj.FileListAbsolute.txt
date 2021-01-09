@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\GitHub\learning-C-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\GitHub\learning-C-\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\TextStyleSelect.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\TextStyleSelect.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\TextStyleSelect.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\GitHub\learning-C-\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

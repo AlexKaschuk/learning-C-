@@ -1,0 +1,10 @@
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\bin\Debug\DynamicMenu.exe.config
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\bin\Debug\DynamicMenu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\bin\Debug\DynamicMenu.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.Form1.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.Properties.Resources.resources
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.csproj.GenerateResource.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.csproj.CoreCompileInputs.cache
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.exe
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.pdb
+C:\Users\abB\source\repos\WindowsFormsApp2\DynamicMenu\obj\Debug\DynamicMenu.csprojAssemblyReference.cache
