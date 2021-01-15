@@ -1,0 +1,10 @@
+D:\GitHub\learning-C-\Paint\bin\Debug\Paint.exe.config
+D:\GitHub\learning-C-\Paint\bin\Debug\Paint.exe
+D:\GitHub\learning-C-\Paint\bin\Debug\Paint.pdb
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.Form1.resources
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.exe
+D:\GitHub\learning-C-\Paint\obj\Debug\Paint.pdb
